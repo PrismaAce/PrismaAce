@@ -1,8 +1,6 @@
 - hey, i'm PrismaAce
-- i like game and program! very epic
-- learning c#
-- wanting to start a decomp hack or pokemon showdown stuff
-- prisma#0359 if you wanna help
+- terraria youtube guy and pokemon fan
+- working on cool stuff hopefully
 
 <!---
 PrismaAce/PrismaAce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
